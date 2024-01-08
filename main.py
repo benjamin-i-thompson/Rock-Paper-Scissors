@@ -31,3 +31,4 @@ while (flag == True):
         print(f"Computer picked: {compIn}")
 
         print(compare(userIn.lower(), compIn))
+
